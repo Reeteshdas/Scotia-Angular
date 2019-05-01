@@ -1,0 +1,17 @@
+.container-fluid {
+  padding: 0;
+}
+
+.app-header {
+  background-color: #6666FF;
+  margin-bottom: 0;
+}
+
+.active > a {
+  background-color: #330099 !important;
+}
+
+li > a {
+  color: #ffffff !important;
+}
+

@@ -1,0 +1,11 @@
+.card-deck img {
+  height: 200px;
+  width: 98%;
+  margin: 2px;
+}
+.card-deck .col-md-3 {
+  padding:0;
+}
+.card {
+  cursor: pointer;
+}
